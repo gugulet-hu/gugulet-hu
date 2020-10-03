@@ -4,4 +4,4 @@
 
 <p align="center"><img src="https://gugulet.hu/site/wp-content/uploads/logo-bottom-500x100-1.png" height="50"></p>
 
-<p align="center"><a href="https://gugulet.hu/projects?src=github-profile">Projects</a> | <a href="https://gugulet.hu/resume?src=github-profile">Resumé</a> | <a href="https://gugulet.hu/services?src=github-profile">Services</a></p>
+<p align="center"><a href="https://gugulet.hu/projects?src=github-profile">Projects</a> | <a href="https://gugulet.hu/resume?src=github-profile">Resumé</a> | <a href="https://gugulet.hu/writing-services?src=github-profile">Services</a></p>
